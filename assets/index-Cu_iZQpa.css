@@ -1,0 +1,1 @@
+#container{text-align:center}#name{font-size:5rem;background-color:#00f;color:#fff}#count{font-size:8rem}#increment,#decrement,#reset{font-size:3rem;margin-left:1rem;width:10rem;cursor:pointer;border-radius:10px}#increment:hover,#decrement:hover,#reset:hover{background-color:#100036;color:#fff;border:1px solid rgb(16,0,54)}
